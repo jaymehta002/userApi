@@ -62,7 +62,7 @@ router.post(
 
       jwt.sign(
         payload,
-        "randomString",
+        "Duff-Will-Be-a-Change",
         {
           expiresIn: 10000
         },
